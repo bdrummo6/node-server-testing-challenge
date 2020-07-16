@@ -1,6 +1,6 @@
 const db = require('../../data/dbConfig');
 
-// Exports all helper functions for use in server.js
+// Exports all helper functions for use in accounts-router.js
 module.exports = {
 	findAll,
 	findById,
